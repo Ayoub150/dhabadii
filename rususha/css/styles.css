@@ -1,0 +1,503 @@
+body {
+	font-family: 'Raleway', css sans-serif;
+	background-color: #ffe1bf; /* light-orange */
+	color: #333;
+	font-size: 16px;
+}
+
+
+
+.navbar { background-color: #2f3640 !important; } .navbar .navbar-nav { color: #4b6857 !important; font-size: 1.1em; font-weight: 600; } .navbar-nav .nav-link:hover { color: #62787d !important; } .navbar-nav .nav-link:hover, .navbar-nav .nav-link:focus { color: #62787d !important; }
+
+#nav-list {
+	margin-top: 10px;
+}
+
+#nav-list a {
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background: #E1E7E1;
+}
+
+#nav-list a span {
+	font-size: 1.8em;
+}
+
+h2 {
+	font-family: 'Raleway', Arial, sans-serif;
+	font-weight: 800;
+}
+
+#jambo {
+	background-color: #ffe1bf;  /* light-orange */
+	margin-top: 15px;
+	padding: 15px 10px 100px;
+	background: url("../images/jambo-background.jpg") center;
+} 
+
+.jumbotron img {
+	border-radius: 7px;
+	margin-bottom: 30px;
+	border: 2px solid #999;
+}
+
+.jumbotron .far-waawayn {
+	font-size: 1.3em;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	color: #E1E7E1;
+}
+
+.dhexdhexaad {
+	padding: 45px 20px 20px;
+}
+
+h1, h2, h4, h3, h5 {
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+	margin-top: 15px;
+	letter-spacing: -.04em;
+	line-height: .8;
+	color: #333;
+}
+
+h6 {
+	color: #1bf;
+	font-style: italic;
+	font-weight: 600;
+	margin: 25px 0 20px;
+}
+
+h1 {
+	font-family: 'Teko', sans-serif;
+	font-weight: 900;
+	font-size: 5em;
+	margin: 45px 0 35px;
+	text-shadow: 2px 2px 0px #42A9DF;
+	text-transform: uppercase;
+	color: #f6f;
+}
+
+a:hover, a:focus {
+	text-decoration: none;
+	color: #f80;
+} 
+
+#jambo .sawir {
+	width: 100%;
+	border-radius: 7px;
+	margin-bottom: 30px;
+	border: 2px solid #999;
+	margin-top: 50px;
+}
+
+/* End Jambo */
+
+
+/* Dhexda */
+
+#main .loading-icon img {
+	width: 100px;
+	margin: 35px 0 30px;
+}
+
+#btn-weyn {
+	text-align: center;
+	margin: 20px 0;
+}
+
+#btn-wayn {
+	height: 550px;
+	font-weight: 900;
+	border: 1px solid #333; 
+	background-color: #f80;   
+	border-radius: 10px; 
+	cursor: pointer;  
+	color: #fff; 
+	font-size: 24px;
+	padding-top: 50px;
+}
+
+.dexda-btn-weyn {
+	margin-top: 20px;
+}
+
+.dhexda-rogroge {
+	margin: -10px 0;
+}
+
+.slide .card .card-body {
+	height: 550px;
+	background: #62787d;
+}
+
+.slide .card .card-body p {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: .9em;
+	font-style: italic;
+	font-weight: 600;
+	position: relative;
+}
+
+.card .card-body p + .roge-btn {
+	position: absolute;
+	bottom: 20px;
+	right: 30px;
+}
+
+.slide.carousel {
+	margin: 30px 0 30px;
+}
+
+/* End Dhexda */
+
+
+/* Articles */
+
+.cwn-maqaalo {
+	margin: 45px 0;
+}
+
+section .saf-guud {
+	margin-bottom: 25px;
+}
+
+section .saf-guud a {
+	color: #000;
+}
+
+section .dln {
+	width: 80%;
+	border: 1px solid #333;
+}
+
+.qaybta-swrka .swrka {
+	position: relative;
+	border: 2px solid #3F0C1F;
+	overflow: hidden;
+	padding: 0;
+	margin-right: -15px;
+	margin-left: auto;
+	margin-bottom: 25px;
+	max-width: 250px;
+}
+
+.swrka .mql {
+	position: absolute;
+	top: 0;
+	right: 85px;
+	text-align: center;
+	width: 80px;
+	background-color: #557c3e;
+	opacity: .6;
+	font-size: .7em;
+	font-weight: 900;
+}
+
+.qaybta-flda {
+	padding-right: 30px;
+}
+
+.qaybta-flda .faahfaahin {
+	font-style: italic;
+	font-size: .9em;
+}
+
+/* End Articles */
+
+/* Single Article */
+
+.card.maqaal-keli {
+	margin: 30px 0 30px;
+}
+
+.card.maqaal-keli .maqaal {
+	text-align: left;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.maqaal-keli img {
+	width: 100%;
+}
+
+h5.cwn-mql-fahfahsan {
+	line-height: 1;
+}
+
+h5 > .yaree {
+	font-size: .6em;
+}
+
+.kala-fogee > div {
+	margin: 60px 0 60px;
+}
+
+.kala-fogee .guri-back {
+	font-size: 3em;
+	margin: 0px;
+	padding: 0px;
+	line-height: .1;
+}
+
+.guri-back span {
+	color: #4b6857;
+}
+
+.guri-back br + span {
+	font-size: .3em;
+	font-weight: 900;
+	margin-left: 0px;
+}
+
+/* End Single Article */
+
+
+/* Sections */
+
+.container-fluid.three-sections {	
+	background-color: #ddefd2 !important;	
+	width: 100%;	
+	padding: 60px 20px 30px;	
+	margin-top: 30px;
+} 
+
+.three-sections .col-md-4 {	
+	margin-bottom: 30px;
+}
+
+h2 + h4 {
+	margin: 20px 0px 20px;
+}
+
+h4 + p + p + hr {
+	width: 80%;
+	border: 1px solid #000;
+	margin-top: 40px;
+}
+
+/* End Sections */
+
+
+/* footer */
+
+.mijo {
+	background-color: #3f3f3f;
+	font-size: .8em;
+	font-weight: 500;
+}
+
+.mijo p  a {
+	line-height: 1.8;
+	color: #fff;
+	font-family: 'Ubuntu', sans-serif;
+
+
+}
+
+.mijo p a:hover, .dabo p a:focus {
+	color: #6fbc44;
+}
+
+.mijo .row .col-sm-auto {
+	margin: 15px auto 65px;
+}
+
+.mijo .row .col-sm-auto p:nth-child(1) {
+	font-size: 1.3em;
+}
+
+.mijo .ciwan-dabo {
+	padding: 65px 0 25px;
+	font-size: 1.4em;
+	color: #bebebe;
+	font-weight: 600;
+	font-style: italic;
+}
+
+/* Extra small (xs) devices (portrait phones, less than 576px) */
+
+@media (max-width: 575.98px) {
+
+	.nav-link .home-guri {
+		margin-right: 8px;
+	}
+
+	.nav-link .art-maqaal {
+		margin-right: 8px;
+	}
+
+	h4 + p {
+		text-align: center;
+	}
+
+	.maqaal + p { /* 3 badhan */
+		text-align: center;
+	}
+
+	/* Articles */
+
+	.qaybta-swrka .swrka {
+		margin-right: auto;
+	}
+
+	.qaybta-flda {
+		text-align: center;
+	}
+
+	.kala-fogee .guri-back {
+		font-size: 2em;
+	}
+}
+
+
+/* Small (sm) devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	.nav-link .home-guri {
+		margin-right: 8px;
+	}
+
+	.nav-link .art-maqaal {
+		margin-right: 8px;
+	}
+
+	#btn-wayn { 
+		font-size: 28px;
+		padding-top: 70px;
+	}
+
+	/* Articles */
+
+	.qaybta-swrka .swrka {
+		margin-right: auto;
+	}
+
+	.qaybta-flda {
+		text-align: center;
+	}
+
+	.slide .card .card-body p {
+		font-size: 1.4em;
+	}
+
+	.slide .card .card-body {
+		height: 650px;
+	}
+
+	.dhexda-rogroge img {
+		height: 650px;
+	}
+}
+
+
+/* Medium (md) devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+	#jambo .sawir {
+		background: url('../images/jambo/720.jpg') no-repeat;
+		height: 405px;
+
+	} 
+
+	#main .loading-icon img {
+		width: 200px;
+	}
+
+	.dhexdhexaad > p {
+		text-align: center;
+		width: 65%;
+		margin: 20px auto 20px;
+	}
+
+	#btn-wayn { 
+		font-size: 30px;
+		padding-top: 80px;
+	}
+
+	.slide .card .card-body p {
+		font-size: 2.5em;
+	}
+
+	.slide .card .card-body {
+		height: 850px;
+	}
+
+	.dhexda-rogroge img {
+		height: 850px;
+	}
+
+}
+
+
+/* Large (lg) devices  (desktops, 992px and up) */
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+	#jambo .sawir {
+		background: url('../images/jambo/630.jpg') no-repeat;
+		height: 354px;
+
+	} 
+
+	#main .loading-icon img {
+		width: 300px;
+	}
+
+	#btn-wayn { 
+		font-size: 32px;
+		padding-top: 90px;
+	}
+
+	.slide .card .card-body p {
+		font-size: 3.2em;
+	}
+
+	.slide .card .card-body {
+		height: 1050px;
+	}
+
+	.dhexda-rogroge img {
+		height: 1050px;
+	}
+
+}
+
+
+/* Extra large (xl) devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) {
+
+
+	#jambo .sawir {
+		background: url('../images/jambo/750.jpg') no-repeat;
+		height: 422px;
+	}
+
+	#main .loading-icon img {
+		width: 300px;
+	}
+
+	#btn-wayn { 
+		font-size: 35px;
+		padding-top: 110px;
+	}
+
+	.slide .card .card-body p {
+		font-size: 4.7em;
+	}
+
+	.slide .card .card-body {
+		height: 1150px;
+	}
+
+	.dhexda-rogroge img {
+		height: 1150px;
+	}
+
+}
