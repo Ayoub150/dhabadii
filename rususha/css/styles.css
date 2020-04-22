@@ -5,8 +5,6 @@ body {
 	font-size: 16px;
 }
 
-
-
 .navbar { background-color: #2f3640 !important; } .navbar .navbar-nav { color: #4b6857 !important; font-size: 1.1em; font-weight: 600; } .navbar-nav .nav-link:hover { color: #62787d !important; } .navbar-nav .nav-link:hover, .navbar-nav .nav-link:focus { color: #62787d !important; }
 
 #nav-list {
@@ -337,6 +335,15 @@ h4 + p + p + hr {
 		text-align: center;
 	}
 
+	#btn-wayn {
+		font-size: 2.1em;
+		padding-top: 42px
+	}
+
+	.dhexda-rogroge .slide .card .card-body {
+		font-size: 1.45em;
+	}
+
 	/* Articles */
 
 	.qaybta-swrka .swrka {
@@ -366,8 +373,20 @@ h4 + p + p + hr {
 	}
 
 	#btn-wayn { 
-		font-size: 28px;
-		padding-top: 70px;
+		font-size: 43px;
+		padding-top: 80px;
+	}
+
+	.dhexda-rogroge .carousel-item img {
+		height: 720px;
+	}
+
+	.dhexda-rogroge .slide .card .card-body {
+		height: 720px;
+	}
+
+	.dhexda-rogroge .slide .card .card-body {
+		font-size: 1.5em;
 	}
 
 	/* Articles */
@@ -401,8 +420,11 @@ h4 + p + p + hr {
 	#jambo .sawir {
 		background: url('../images/jambo/720.jpg') no-repeat;
 		height: 405px;
-
 	} 
+
+	.jumbotron .far-waawayn {
+		font-size: 1.9em;
+	}
 
 	#main .loading-icon img {
 		width: 200px;
@@ -414,17 +436,22 @@ h4 + p + p + hr {
 		margin: 20px auto 20px;
 	}
 
+	.dhexda-rogroge .carousel-item img {
+		height: 500px;
+	}
+
 	#btn-wayn { 
 		font-size: 30px;
 		padding-top: 80px;
+		height: 500px;
 	}
 
 	.slide .card .card-body p {
-		font-size: 2.5em;
+		font-size: 1.3em;
 	}
 
 	.slide .card .card-body {
-		height: 850px;
+		height: 500px;
 	}
 
 	.dhexda-rogroge img {
@@ -445,21 +472,30 @@ h4 + p + p + hr {
 
 	} 
 
+	.jumbotron .far-waawayn {
+		font-size: 1.5em;
+	}
+
 	#main .loading-icon img {
 		width: 300px;
+	}
+
+	.dhexda-rogroge .carousel-item img {
+		height: 600px;
 	}
 
 	#btn-wayn { 
 		font-size: 32px;
 		padding-top: 90px;
+		height: 600px;
 	}
 
 	.slide .card .card-body p {
-		font-size: 3.2em;
+		font-size: 1.35em;
 	}
 
 	.slide .card .card-body {
-		height: 1050px;
+		height: 600px;
 	}
 
 	.dhexda-rogroge img {
@@ -486,14 +522,19 @@ h4 + p + p + hr {
 	#btn-wayn { 
 		font-size: 35px;
 		padding-top: 110px;
+		height: 650px;
+	}
+
+	.dhexda-rogroge .carousel-item img {
+		height: 650px;
 	}
 
 	.slide .card .card-body p {
-		font-size: 4.7em;
+		font-size: 1.6em;
 	}
 
 	.slide .card .card-body {
-		height: 1150px;
+		height: 650px;
 	}
 
 	.dhexda-rogroge img {
