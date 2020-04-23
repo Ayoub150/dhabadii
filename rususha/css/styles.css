@@ -58,7 +58,7 @@ h1, h2, h4, h3, h5 {
 	text-align: center;
 	margin-top: 15px;
 	letter-spacing: -.04em;
-	line-height: .8;
+	line-height: .9;
 	color: #333;
 }
 
@@ -177,8 +177,8 @@ section .dln {
 	border: 2px solid #3F0C1F;
 	overflow: hidden;
 	padding: 0;
-	margin-right: -15px;
-	margin-left: auto;
+	/* margin-right: -15px;
+	margin-left: auto; */
 	margin-bottom: 25px;
 	max-width: 250px;
 }
@@ -477,7 +477,7 @@ h4 + p + p + hr {
 	}
 
 	#main .loading-icon img {
-		width: 300px;
+		width: 200px;
 	}
 
 	.dhexda-rogroge .carousel-item img {
@@ -491,7 +491,7 @@ h4 + p + p + hr {
 	}
 
 	.slide .card .card-body p {
-		font-size: 1.35em;
+		font-size: 1.3em;
 	}
 
 	.slide .card .card-body {
