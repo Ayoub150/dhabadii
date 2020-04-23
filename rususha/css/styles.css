@@ -178,8 +178,8 @@ section .dln {
 	overflow: hidden;
 	padding: 0;
 	/* margin-right: -15px;
-	margin-left: auto; */
-	margin-bottom: 25px;
+	margin-left: auto; 
+	margin-bottom: 25px; */
 	max-width: 250px;
 }
 
