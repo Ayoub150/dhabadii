@@ -502,10 +502,6 @@ h4 + p + p + hr {
 		height: 1050px;
 	}
 
-#section-maqaallo .saf-guud {
-width: 100%;
-}
-
 }
 
 
@@ -544,9 +540,5 @@ width: 100%;
 	.dhexda-rogroge img {
 		height: 1150px;
 	}
-
-#section-maqaallo .saf-guud {
-width: 100%;
-}
 
 }
