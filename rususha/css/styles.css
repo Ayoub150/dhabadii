@@ -163,6 +163,10 @@ section .saf-guud {
 	margin-bottom: 25px;
 }
 
+section .saf-guud {
+text-align: center;
+}
+
 section .saf-guud a {
 	color: #000;
 }
