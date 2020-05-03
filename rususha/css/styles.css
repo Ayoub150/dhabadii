@@ -200,7 +200,7 @@ section .dln {
 margin-top: -15px;
 }
 
-.qaybta-flda h3 {
+.qaybta-flda h3.cwnka-flda {
 	fnt-style: italic;
 	color: #42A9DF; 
 }
@@ -468,6 +468,11 @@ h4 + p + p + hr {
 	.dhexda-rogroge img {
 		height: 850px;
 	}
+
+.qaybta-flda h3 {
+	text-align: left;
+}
+
 }
 
 /* Large (lg) devices  (desktops, 992px and up) */
@@ -511,6 +516,10 @@ h4 + p + p + hr {
 		height: 1050px;
 	}
 
+.qaybta-flda h3 {
+	text-align: left;
+}
+
 }
 
 
@@ -549,5 +558,9 @@ h4 + p + p + hr {
 	.dhexda-rogroge img {
 		height: 1150px;
 	}
+
+.qaybta-flda h3 {
+	text-align: left;
+}
 
 }
