@@ -201,7 +201,16 @@ section .dln {
 
 .qaybta-flda .faahfaahin, .qaybta-flda h3 {
 	fnt-style: italic;
-	color: #2f3640;
+	color: #42A9DF; 
+}
+
+.qaybta-flda .faahfaahin {
+font-size: 1.2em;
+font-weight: 700;
+}
+
+.qaybta-flda .faahfaahin a {
+font-size: 1.2em;
 }
 
 /* End Articles */
