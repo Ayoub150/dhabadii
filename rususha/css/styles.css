@@ -200,8 +200,9 @@ section .dln {
 }
 
 .qaybta-flda .faahfaahin {
-	font-style: italic;
-	font-size: .9em;
+	fnt-style: italic;
+	ont-size: .9em;
+color: #1bf;
 }
 
 /* End Articles */
