@@ -197,20 +197,22 @@ section .dln {
 
 .qaybta-flda {
 	padding-right: 30px;
+margin-top: -15px;
 }
 
-.qaybta-flda .faahfaahin, .qaybta-flda h3 {
+.qaybta-flda h3 {
 	fnt-style: italic;
 	color: #42A9DF; 
 }
 
 .qaybta-flda .faahfaahin {
-font-size: 1.2em;
-font-weight: 700;
+font-size: 1.1em;
+font-weight: 600;
 }
 
 .qaybta-flda .faahfaahin a {
-font-size: 1.2em;
+font-size: 1.4em;
+color: #42A9DF
 }
 
 /* End Articles */
