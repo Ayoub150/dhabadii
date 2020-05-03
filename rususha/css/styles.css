@@ -199,9 +199,9 @@ section .dln {
 	padding-right: 30px;
 }
 
-.qaybta-flda .faahfaahin {
+.qaybta-flda .faahfaahin, .qaybta-flda h3 {
 	fnt-style: italic;
-	color: #6fbc44;
+	color: #2f3640;
 }
 
 /* End Articles */
