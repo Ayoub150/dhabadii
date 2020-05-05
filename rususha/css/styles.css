@@ -474,7 +474,7 @@ h4 + p + p + hr {
 }
 
 .kala-fogee a span + br + span {
-margin-right: 15px;
+margin-right: 115px;
 }
 
 }
@@ -524,6 +524,10 @@ margin-right: 15px;
 	text-align: left;
 }
 
+.kala-fogee a span + br + span {
+margin-right: 115px;
+}
+
 }
 
 
@@ -565,6 +569,10 @@ margin-right: 15px;
 
 .qaybta-flda h3 {
 	text-align: left;
+}
+
+.kala-fogee a span + br + span {
+margin-right: 115px;
 }
 
 }
