@@ -473,6 +473,10 @@ h4 + p + p + hr {
 	text-align: left;
 }
 
+.kala-fogee a span + br + span {
+margin-right: 15px;
+}
+
 }
 
 /* Large (lg) devices  (desktops, 992px and up) */
