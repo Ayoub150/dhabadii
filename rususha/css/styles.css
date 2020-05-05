@@ -473,7 +473,7 @@ h4 + p + p + hr {
 	text-align: left;
 }
 
-.kala-fogee #qoraal {
+.kala-fogee #qoraal-home, .kala-fogee #qoraal-articles {
 margin-right: 115px;
 }
 
@@ -524,7 +524,7 @@ margin-right: 115px;
 	text-align: left;
 }
 
-.kala-fogee #qoraal {
+.kala-fogee #qoraal-home, .kala-fogee #qoraal-articles {
 margin-right: 115px;
 }
 
@@ -571,7 +571,7 @@ margin-right: 115px;
 	text-align: left;
 }
 
-.kala-fogee #qoraal {
+.kala-fogee #qoraal-home, .kala-fogee #qoraal-articles {
 margin-right: 115px;
 }
 
