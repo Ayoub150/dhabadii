@@ -298,7 +298,7 @@ h4 + p + p + hr {
 	font-weight: 500;
 }
 
-.mijo p  a {
+.mijo p  a, .mijo p {
 	line-height: 1.8;
 	color: #fff;
 	font-family: 'Ubuntu', sans-serif;
@@ -311,7 +311,7 @@ h4 + p + p + hr {
 }
 
 .mijo .row .col-sm-auto {
-	margin: 15px auto 65px;
+	margin: 15px auto 15px;
 }
 
 .mijo .row .col-sm-auto p:nth-child(1) {
@@ -319,7 +319,7 @@ h4 + p + p + hr {
 }
 
 .mijo .ciwan-dabo {
-	padding: 65px 0 25px;
+	padding: 35px 0 25px;
 	font-size: 1.4em;
 	color: #bebebe;
 	font-weight: 600;
