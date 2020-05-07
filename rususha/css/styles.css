@@ -303,7 +303,11 @@ h4 + p + p + hr {
 	color: #fff;
 	font-family: 'Ubuntu', sans-serif;
 
+}
 
+.mijo #copy-right {
+font-size: .7em;
+margin: -15px auto -15px;
 }
 
 .mijo p a:hover, .dabo p a:focus {
