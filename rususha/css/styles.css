@@ -305,9 +305,9 @@ h4 + p + p + hr {
 
 }
 
-.mijo #copy-right {
-font-size: .7em;
-margin: -15px auto -15px;
+.mijo .copy-right {
+font-size: .8em;
+margin: -35px auto 0;
 }
 
 .mijo p a:hover, .dabo p a:focus {
