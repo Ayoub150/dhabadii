@@ -305,9 +305,9 @@ h4 + p + p + hr {
 
 }
 
-.mijo .copy-right {
+.mijo #copy-right {
 font-size: .8em;
-margin: -35px auto 0;
+mammin: -35px auto 0;
 }
 
 .mijo p a:hover, .dabo p a:focus {
@@ -315,7 +315,7 @@ margin: -35px auto 0;
 }
 
 .mijo .row .col-sm-auto {
-	margin: 15px auto 15px;
+	mgin: 15px auto 15px;
 }
 
 .mijo .row .col-sm-auto p:nth-child(1) {
