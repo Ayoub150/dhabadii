@@ -305,7 +305,7 @@ h4 + p + p + hr {
 
 }
 
-.mijo #copy-right {
+.col-sm-auto:nth-child(2) {
 font-size: .8em;
 mammin: -35px auto 0;
 }
