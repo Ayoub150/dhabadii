@@ -305,9 +305,8 @@ h4 + p + p + hr {
 
 }
 
-.col-sm-auto:nth-child(2) {
+.mijo .row .col-sm-auto p {
 font-size: .8em;
-mammin: -35px auto 0;
 }
 
 .mijo p a:hover, .dabo p a:focus {
@@ -318,7 +317,7 @@ mammin: -35px auto 0;
 	mgin: 15px auto 15px;
 }
 
-.mijo .row .col-sm-auto p:nth-child(1) {
+.mijo .row .col-sm-4:nth-child(3) p:nth-child(1) {
 	font-size: 1.3em;
 }
 
