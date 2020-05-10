@@ -296,6 +296,7 @@ h4 + p + p + hr {
 	background-color: #3f3f3f;
 	font-size: .8em;
 	font-weight: 500;
+margin-bottom: 0;
 }
 
 .mijo p, .mijo p a {
