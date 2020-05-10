@@ -298,7 +298,7 @@ h4 + p + p + hr {
 	font-weight: 500;
 }
 
-.mijo p {
+.mijo p, .mijo p a {
 	line-height: 1.8;
 	color: #fff;
 	font-family: 'Ubuntu', sans-serif;
@@ -307,10 +307,10 @@ h4 + p + p + hr {
 
 .mijo p#copy-right {
 font-size: .8em;
-margin-bottom: 200px;
+padding-bottom: 200px;
 }
 
-.mijo p a:hover, .mijo p a:cukkms {
+.mijo p a:hover, .dabo p a:cukkms {
 	color: #6fbc44;
 }
 
