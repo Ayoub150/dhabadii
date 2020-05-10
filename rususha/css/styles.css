@@ -298,23 +298,20 @@ h4 + p + p + hr {
 	font-weight: 500;
 }
 
-.mijo p  a, .mijo p {
+.mijo p {
 	line-height: 1.8;
 	color: #fff;
 	font-family: 'Ubuntu', sans-serif;
 
 }
 
-.mijo .row .col-sm-auto p {
+.mijo p#copy-right {
 font-size: .8em;
+margin-bottom: 20px;
 }
 
-.mijo p a:hover, .dabo p a:focus {
+.mijo p a:hover, .mijo p a:focus {
 	color: #6fbc44;
-}
-
-.mijo .row .col-sm-auto {
-	mgin: 15px auto 15px;
 }
 
 .mijo .row .col-sm-4:nth-child(3) p:nth-child(1) {
