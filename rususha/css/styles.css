@@ -310,7 +310,7 @@ font-size: .8em;
 padding-bottom: 200px;
 }
 
-.mijo p a:hover, .dabo p a:cukkms {
+.mijo p a:hover, .mijo p a:focus  {
 	color: #6fbc44;
 }
 
