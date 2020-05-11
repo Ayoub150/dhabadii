@@ -41,7 +41,7 @@ h2 {
 	border: 2px solid #999;
 }
 
-.jumbotron .far-waawayn {
+#jambo .far-waawayn {
 	font-size: 1.3em;
 	font-family: 'Oswald', sans-serif;
 	font-weight: 400;
@@ -436,7 +436,7 @@ margin: 0 auto;
 padding: 0 15px;
 	} 
 
-	.jumbotron .far-waawayn {
+	#jambo .far-waawayn {
 		font-size: 1.9em;
 	}
 
@@ -492,7 +492,7 @@ margin-left: 15px;
 		height: 354px;
 	} 
 
-	.jumbotron .far-waawayn {
+	#jambo .far-waawayn {
 		font-size: 1.5em;
 	}
 
