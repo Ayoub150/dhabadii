@@ -431,7 +431,8 @@ font-size: .8em;
 	#jambo .sawir {
 		background: url('../images/jambo/720.jpg') no-repeat;
 		height: 405px;
-width: 50%;
+width: 80%;
+margin: 0 auto;
 	} 
 
 	.jumbotron .far-waawayn {
