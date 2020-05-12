@@ -35,9 +35,8 @@ h2 {
 	background: url("../images/jambo-background.jpg") center;
 }
 
-.jumbotron {
+.container-fluid .jumbotron {
 padding: 0;
-margin: 0;
 }
 
 .jumbotron img {
