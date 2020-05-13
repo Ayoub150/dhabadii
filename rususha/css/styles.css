@@ -37,7 +37,6 @@ h2 {
 
 .container-fluid .jumbotron {
 padding: 0;
-width: 90%;
 }
 
 .jumbotron img {
@@ -436,7 +435,14 @@ font-size: .8em;
 	#jambo .sawir {
 		background: url('../images/jambo/750.jpg') no-repeat;
 		height: 405px;
+margin: 0 auto;
 	} 
+
+.container-fluid .jumbotron {
+width: 90%;
+margin: 0 auto;
+}
+
 
 	#jambo .far-waawayn {
 		font-size: 1.9em;
