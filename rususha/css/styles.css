@@ -37,6 +37,7 @@ h2 {
 
 .container-fluid .jumbotron {
 padding: 0;
+background-color: #000;
 }
 
 .jumbotron img {
