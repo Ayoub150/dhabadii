@@ -436,6 +436,8 @@ font-size: .8em;
 	#jambo .jumbotron {
 		background: url('../images/jambo/720.jpg') no-repeat;
 		height: 405px;
+width: 100%;
+margin: 0 auto;
 	} 
 
 /* .container-fluid .jumbotron {
