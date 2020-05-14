@@ -89,13 +89,13 @@ a:hover, a:focus {
 	color: #f80;
 } 
 
-#jambo .sawir {
+/* #jambo .sawir {
 	width: 100%;
 	border-radius: 7px;
 	margin-bottom: 30px;
 	border: 2px solid #999;
 	margin-top: 50px;
-}
+} */
 
 /* End Jambo */
 
@@ -436,13 +436,12 @@ font-size: .8em;
 	#jambo .jumbotron {
 		background: url('../images/jambo/720.jpg') no-repeat;
 		height: 405px;
-margin: 0 auto;
 	} 
 
-.container-fluid .jumbotron {
+/* .container-fluid .jumbotron {
 wdth: 94%;
 mrgin: 0 auto;
-}
+} */
 
 
 	#jambo .far-waawayn {
