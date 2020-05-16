@@ -438,7 +438,11 @@ font-size: .8em;
 		height: 405px;
 width: 97%;
 margin: 0 auto;
-	} 
+	}
+
+.container-fluid #jambo .col-lg-8 {
+width: 100%
+}
 
 /* .container-fluid .jumbotron {
 wdth: 94%;
