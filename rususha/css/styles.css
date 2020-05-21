@@ -40,7 +40,7 @@ padding: 0;
 background-color: #000;
 }
 
-.botron img {
+.jumbotron img {
 	border-radius: 7px;
 	margin-bottom: 30px;
 	border: 2px solid #999;
@@ -425,8 +425,8 @@ font-size: .8em;
 @media (min-width: 768px) and (max-width: 991.98px) {
 
 
-	.container-fluid #jambo .botron {
-		background: url('../images/jambo/720.jpg') no-repeat;
+	.container-fluid #jambo .jumbotron {
+		background: url('../images/jambo/750.jpg') no-repeat;
 		height: 405px;
 width: 85%;
 margin: 0 auto;
