@@ -129,7 +129,7 @@ var showLoading = function (selector) {
   insertHtml(selector, html);
 };
 
-// Remove the class 'active' from home and switch to All Articles button
+// Remove the class 'active' from home and switch to Articles button
 
 var activeUbedelArticles = function () {
 // Remove active from home button
@@ -215,6 +215,21 @@ pp.loadGaree = function (sel) {
     document.querySelector("#main")
     .innerHTML = responseText;
   }
+
+
+pp.loadGareeVideos = function () {
+  
+  url = videos.html
+
+showLoading("#main");
+ $ajaxUtils.sendGetRequest(url, dhiseVideos, false);};
+ 
+ dhiseVideos = function (responseText) {
+    document.querySelector("#main")
+      .innerHTML = responseText;
+  }
+
+
 });
 
 global.$pp = pp;
