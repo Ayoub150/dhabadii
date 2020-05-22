@@ -219,7 +219,7 @@ pp.loadGaree = function (sel) {
 
 pp.loadGareeVideos = function () {
   
-  url = videos.html
+  var url = "snippets/videos.html"
 
 showLoading("#main");
  $ajaxUtils.sendGetRequest(url, dhiseVideos, false);};
