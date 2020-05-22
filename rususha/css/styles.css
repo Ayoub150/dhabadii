@@ -31,7 +31,7 @@ h2 {
 #jambo {
 	background-color: #ffe1bf;  /* light-orange */
 	margin-top: 15px;
-	padding: 15px 0 100px;
+	padding: 15px 10px 100px;
 	background: url("../images/jambo-background.jpg") center;
 }
 
@@ -55,7 +55,7 @@ background-color: #000;
 }
 
 .dhexdhexaad {
-	padding: 45px 20px 20px;
+	padding: 30px 20px 20px;
 }
 
 h1, h2, h4, h3, h5 {
@@ -489,6 +489,7 @@ margin-left: 15px;
 
 	#jambo .far-waawayn {
 		font-size: 1.5em;
+margin-top: -15px;
 	}
 
 	#main .loading-icon img {
