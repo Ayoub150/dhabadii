@@ -31,7 +31,7 @@ h2 {
 #jambo {
 	background-color: #ffe1bf;  /* light-orange */
 	margin-top: 15px;
-	padding: 15px 10px 100px;
+	padding: 15px 0 100px;
 	background: url("../images/jambo-background.jpg") center;
 }
 
@@ -426,10 +426,10 @@ font-size: .8em;
 
 
 	.container-fluid #jambo .jumbotron {
-		background: url('../images/jambo/750.jpg') no-repeat;
+		background: url('../images/jambo/720.jpg') no-repeat;
 		height: 405px;
-width: 85%;
-margin: 0 auto;
+wdth: 85%;
+mrgin: 0 auto;
 	}
 
 
