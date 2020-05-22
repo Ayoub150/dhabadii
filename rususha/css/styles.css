@@ -428,8 +428,6 @@ font-size: .8em;
 	.container-fluid #jambo .jumbotron {
 		background: url('../images/jambo/720.jpg') no-repeat center;
 		height: 405px;
-wdth: 85%;
-mrgin: 0 auto;
 	}
 
 
@@ -485,7 +483,7 @@ margin-left: 15px;
 
 
 	#jambo .jumbotron {
-		background: url('../images/jambo/630.jpg') no-repeat;
+		background: url('../images/jambo/630.jpg') no-repeat center;
 		height: 354px;
 	} 
 
@@ -536,7 +534,7 @@ margin-left: 15px;
 
 
 	#jambo .jumbotron {
-		background: url('../images/jambo/750.jpg') no-repeat;
+		background: url('../images/jambo/750.jpg') no-repeat center;
 		height: 422px;
 	}
 
