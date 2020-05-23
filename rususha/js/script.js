@@ -129,16 +129,24 @@ var showLoading = function (selector) {
   insertHtml(selector, html);
 };
 
-// Remove the class 'active' from home and switch to Articles button
+// Remove the class 'active' from home or videos and switch to Articles button
 
 var activeUbedelArticles = function () {
-// Remove active from home button
+// Remove active from home button if its there
 
 var classes = document.querySelector("#guri").className
-
+if (classes.indexOf("active") !== -1) {
 classes = classes.replace(new RegExp("active", "g"), "")
-
 document.querySelector("#guri").className = classes
+}
+
+// Remove active from videos button if its there
+
+var classes = document.querySelector("#videos").className
+if (classes.indexOf("active") !== -1) {
+classes = classes.replace(new RegExp("active", "g"), "")
+document.querySelector("#videos").className = classes
+}
 
 // Add 'active' to Articles button if not already there
 
