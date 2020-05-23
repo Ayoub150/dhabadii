@@ -260,6 +260,27 @@ h5 > .yaree {
 
 /* End Single Article */
 
+/* Videos */
+
+.fidiyo {
+   margin: 15px 0 15px;
+   }
+   
+   iframe {
+   border: 0;
+   }
+   
+   section#kore
+ {
+   margin-top: 40px;
+   }
+   
+   .container-fluid #cwn-fidiyo {
+margin: 10px 0;
+}
+
+/* End Videos */
+
 
 /* Sections */
 
