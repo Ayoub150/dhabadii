@@ -140,8 +140,7 @@ classes = classes.replace(new RegExp("active", "g"), "")
 
 document.querySelector("#guri").className = classes
 
-// Add 'active' to All Articles button if not already there
-
+// Add 'active' to Articles button if not already there
 
 var classes = document.querySelector("#maqaallo").className 
 
@@ -152,6 +151,42 @@ if (classes.indexOf("active") == -1) {
 }
 
 }
+
+
+
+
+// Remove the class 'active' from home or articles and switch to Videos button
+
+var activeUbedelVideos = function () {
+// Remove active from home button if its there
+
+var classes = document.querySelector("#guri").className
+if (classes.indexOf("active") !== -1) {
+classes = classes.replace(new RegExp("active", "g"), "")
+document.querySelector("#guri").className = classes
+}
+
+// Remove active from articles button if its there
+
+var classes = document.querySelector("#maqaallo").className
+if (classes.indexOf("active") !== -1) {
+classes = classes.replace(new RegExp("active", "g"), "")
+document.querySelector("#maqaallo").className = classes
+}
+
+// Add 'active' to Videos button if not already there
+
+var classes = document.querySelector("#videos").className 
+if (classes.indexOf("active") == -1) {
+  classes += " active"
+
+  document.querySelector("#videos").className = classes
+}
+
+}
+
+
+
 
 // On page load (before images or CSS)
 document.addEventListener("DOMContentLoaded", function (event) {
