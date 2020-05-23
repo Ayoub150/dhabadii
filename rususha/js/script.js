@@ -260,6 +260,7 @@ showLoading("#main");
  $ajaxUtils.sendGetRequest(url, dhiseVideos, false);};
  
  dhiseVideos = function (responseText) {
+activeUbedelVideos()
     document.querySelector("#main")
       .innerHTML = responseText;
   }
