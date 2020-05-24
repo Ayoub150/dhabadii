@@ -23,6 +23,10 @@ body {
 	font-size: 1.8em;
 }
 
+#nav-list .active {
+font-size: 1.3em;
+}
+
 h2 {
 	font-family: 'Raleway', Arial, sans-serif;
 	font-weight: 800;
