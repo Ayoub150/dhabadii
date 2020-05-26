@@ -94,25 +94,25 @@ $(function () { // Same as document.addEventListener("DOMContentLoaded"...
 
   var pp = {};
 
-  pp.aa = "snippets/single/art1.html"
+  pp.art1 = "snippets/single/art1.html"
 
-  pp.bb = "snippets/single/art21.html"
+  pp.art21 = "snippets/single/art21.html"
 
-  pp.cc = "snippets/single/art22.html"
+  pp.art22 = "snippets/single/art22.html"
 
-  pp.dd = "snippets/single/art23.html"
+  pp.art23 = "snippets/single/art23.html"
 
-  pp.ee = "snippets/single/art31.html"
+  pp.art31 = "snippets/single/art31.html"
 
-  pp.ff = "snippets/single/art32.html"
+  pp.art32 = "snippets/single/art32.html"
 
-  pp.gg = "snippets/single/art41.html"
+  pp.art41 = "snippets/single/art41.html"
 
-  pp.hh = "snippets/single/art42.html"
+  pp.art42 = "snippets/single/art42.html"
 
-  pp.ii = "snippets/single/art43.html"
+  pp.art43 = "snippets/single/art43.html"
 
-  pp.jj = "snippets/articles.html"
+  pp.articles = "snippets/articles.html"
 
   var homeHtml = "snippets/home.html";
 
@@ -210,46 +210,46 @@ $ajaxUtils.sendGetRequest(
   false);
 
 
-pp.loadGaree = function (sel) { 
-  if (sel == 1) {
-    urlll = pp.aa
+pp.loadGaree = function (selector) { 
+  if (selector == 1) {
+    url = pp.art1
   }
-  if (sel == 21) {
-    urlll = pp.bb
+  if (selector == 21) {
+    url = pp.art21
   }
-  if (sel == 22) {
-    urlll = pp.cc
+  if (selector == 22) {
+    url = pp.art22
   }
-  if (sel == 23) {
-    urlll = pp.dd
+  if (selector  == 23) {
+    url = pp.art23
   }
-  if (sel == 31) {
-    urlll = pp.ee
-  }
-
-  if (sel == 32) {
-    urlll = pp.ff
+  if (selector == 31) {
+    url = pp.art31
   }
 
-  if (sel == 41) {
-    urlll = pp.gg
+  if (selector == 32) {
+    url = pp.art32
   }
 
-  if (sel == 42) {
-    urlll = pp.hh
+  if (selector == 41) {
+    url = pp.art41
   }
 
-  if (sel == 43) {
-    urlll = pp.ii
+  if (selector == 42) {
+    url = pp.art42
   }
 
-  if (sel == "articles") {
-    urlll = pp.jj
+  if (selector == 43) {
+    url = pp.art43
+  }
+
+  if (selector == "articles") {
+    url = pp.articles
   }
 
 
   showLoading("#main");
-  $ajaxUtils.sendGetRequest(urlll, dhise,false);};
+  $ajaxUtils.sendGetRequest(url, dhise,false);};
 
 
   dhise = function (responseText) {
