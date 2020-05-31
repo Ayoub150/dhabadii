@@ -461,7 +461,7 @@ font-size: .8em;
 	}
 
 	#main .loading-icon img {
-		width: 200px;
+		width: 150px;
 	}
 
 	.dhexdhexaad > p {
@@ -518,7 +518,7 @@ margin-top: -15px;
 	}
 
 	#main .loading-icon img {
-		width: 200px;
+		width: 150px;
 	}
 
 	.dhexda-rogroge .carousel-item img {
@@ -526,13 +526,13 @@ margin-top: -15px;
 	}
 
 	#btn-wayn { 
-		font-size: 32px;
+		font-size: 42px;
 		padding-top: 90px;
 		height: 600px;
 	}
 
 	.slide .card .card-body p {
-		font-size: 1.27em;
+		font-size: 2.27em;
 	}
 
 	.slide .card .card-body {
@@ -565,11 +565,11 @@ margin-left: 15px;
 	}
 
 	#main .loading-icon img {
-		width: 300px;
+		width: 200px;
 	}
 
 	#btn-wayn { 
-		font-size: 35px;
+		font-size: 45px;
 		padding-top: 110px;
 		height: 650px;
 	}
@@ -579,7 +579,7 @@ margin-left: 15px;
 	}
 
 	.slide .card .card-body p {
-		font-size: 1.6em;
+		font-size: 2.6em;
 	}
 
 	.slide .card .card-body {
